@@ -1,0 +1,27 @@
+  <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/amika_alert_toast"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@layout/toast_shape"
+    android:padding="50dp"
+    >
+  
+    <ImageView
+        android:id="@+id/toast_alert_iv"
+        android:src="@drawable/ic_alert"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:paddingEnd="18dp"
+      />
+
+    <TextView android:id="@+id/toast_alert_tv"
+              android:layout_height="wrap_content"
+              android:layout_width="wrap_content"
+              android:textColor="#FFFFFF"
+              android:textSize="32sp"
+              android:textStyle="bold"
+              android:paddingTop="28dp"
+              android:layout_toEndOf="@id/toast_alert_iv"
+              />
+  </RelativeLayout>

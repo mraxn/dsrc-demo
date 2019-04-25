@@ -1,0 +1,22 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pd_main_sw"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="6dp"
+    tools:context="com.example.mraxn.obuapp.MainActivity$PlaceholderFragment">
+
+    <LinearLayout
+        android:id="@+id/pd_main_linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include android:id="@+id/pd_card1" layout="@layout/pd_card" />
+        <include android:id="@+id/pd_card2" layout="@layout/pd_card" />
+        <include android:id="@+id/pd_card3" layout="@layout/pd_card" />
+        <include android:id="@+id/pd_card4" layout="@layout/pd_card" />
+        <include android:id="@+id/pd_card5" layout="@layout/pd_card" />
+
+    </LinearLayout>
+</ScrollView>

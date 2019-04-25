@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">OBUApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="full_names">
+      <item>Jon Snow</item>
+      <item>Daenerys Targaryen</item>
+      <item>Tyrion Lannister</item>
+      <item>Arya Stark</item>
+      <item>Samwell Tarly</item>
+      <item>Brienne of Tarth</item>
+      <item>Sandor Clegane</item>
+      <item>Khal Drogo</item>
+      <item>Yara Greyjoy</item>
+      <item>Grey Worm</item>
+      <item>Tormund Giantsbane</item>
+      <item>Jaime Lannister</item>
+      <item>Jorah Mormont</item>
+      <item>Meera Reed</item>
+      <item>Davos Seaworth</item>
+      <item>Davos Seaworth</item>
+      <item>Bran Stark</item>
+      <item>Sansa Stark</item>
+      <item>Olenna Tyrell</item>
+      <item>Margaery Tyrell</item>
+      <item>Varys</item>
+      <item>Ygritte</item>
+      <item>Cersei Lannister</item>
+      <item>Petyr Baelish</item>
+      <item>Gendry</item>
+      <item>Merrett Frey</item>
+      <item>Beric Dondarrion</item>
+      <item>Valarr Targaryen</item>
+      <item>Jeyne Westerling</item>
+      <item>Ambrose Butterwell</item>
+      <item>Gerold Hightower</item>
+      <item>Benjen Stark</item>
+      <item>Rodrik Cassel</item>
+      <item>Selyse Florent</item>
+      <item>Illyrio Mopatis</item>
+      <item>Jeyne Poole</item>
+      <item>Aurane Waters</item>
+      <item>Nymeria Sand</item>
+      <item>Orton Merryweather</item>
+      <item>Otto Hightower</item>
+      <item>Steffon Baratheon</item>
+      <item>Rossart</item>
+      <item>Ryam Redwyne</item>
+      <item>Gyles Rosby</item>
+      <item>Mathis Rowan</item>
+      <item>Edmyn Tully</item>
+      <item>Qarlton Chelsted</item>
+      <item>Barth</item>
+      <item>Lyanna Stark</item>
+      <item>Wyman Manderly</item>
+      <item>Tyland Lannister</item>
+      <item>Luwin</item>
+      <item>Brandon Stark</item>
+      <item>Arys Oakheart</item>
+      <item>Brynden Tully</item>
+      <item>Lyonel Strong</item>
+      <item>Hoster Tully</item>
+      <item>Alester Florent</item>
+      <item>Garlan Tyrell</item>
+      <item>Robert Arryn</item>
+      <item>Rhaella Targaryen</item>
+      <item>Murmison</item>
+      <item>Aemond Targaryen</item>
+      <item>Balon Swann</item>
+      <item>Axell Florent</item>
+      <item>Larys Strong</item>
+      <item>Podrick Payne</item>
+      <item>Willas Tyrell</item>
+      <item>Shae</item>
+      <item>Jojen Reed</item>
+      <item>Gilly</item>
+      <item>Olenna Redwyne</item>
+      <item>Edric Storm</item>
+      <item>Jaehaera Targaryen</item>
+      <item>Rhaenys Targaryen</item>
+      <item>Amory Lorch</item>
+      <item>Visenya Targaryen</item>
+      <item>Alysanne Targaryen</item>
+      <item>Hosteen Frey</item>
+      <item>Harrold Westerling</item>
+      <item>Helaena Targaryen</item>
+      <item>Meera Reed</item>
+      <item>Rickard Stark</item>
+      <item>Addison Hill</item>
+      <item>Alicent Hightower</item>
+      <item>Yoren</item>
+      <item>Kaeth</item>
+      <item>Lyman Beesbury</item>
+      <item>Areo Hotah</item>
+      <item>Orwyle</item>
+      <item>Bowen Marsh</item>
+      <item>Jasper Wylde</item>
+      <item>Osha</item>
+      <item>Cleos Frey</item>
+      <item>Rhaenys Targaryen</item>
+      <item>Runciter</item>
+      <item>Hodor</item>
+      <item>Ygritte</item>
+      <item>Xaro Xhoan Daxos</item>
+      <item>Mellos</item>
+      <item>Amerei Frey</item>
+      <item>Alannys Harlaw</item>
+      <item>Beron Stark</item>
+      <item>Joanna Lannister</item>
+      <item>Dontos Hollard</item>
+      <item>Emmon Frey</item>
+      <item>Alliser Thorne</item>
+      <item>Shireen Baratheon</item>
+      <item>Rickard Karstark</item>
+      <item>Daena Targaryen</item>
+      <item>Daeron Targaryen</item>
+      <item>Alerie Hightower</item>
+      <item>Varamyr</item>
+      <item>Daemon II Blackfyre</item>
+      <item>Ilyn Payne</item>
+      <item>Naerys Targaryen</item>
+      <item>Daario Naharis</item>
+      <item>Meryn Trant</item>
+      <item>Tytos Blackwood</item>
+      <item>Horas Redwyne</item>
+      <item>Boros Blount</item>
+      <item>Genna Lannister</item>
+      <item>Roslin Frey</item>
+      <item>Ryman Frey</item>
+      <item>Hobber Redwyne</item>
+      <item>Tormund</item>
+      <item>Aegor Rivers</item>
+      <item>Qhorin Halfhand</item>
+      <item>Vargo Hoat</item>
+      <item>Tytos Lannister</item>
+      <item>Aerion Targaryen</item>
+      <item>Daven Lannister</item>
+      <item>Harren Hoare</item>
+      <item>Grenn</item>
+      <item>Jhogo</item>
+      <item>Symond Frey</item>
+      <item>Chett</item>
+      <item>Nymeria</item>
+      <item>Skahaz mo Kandaq</item>
+      <item>Laenor Velaryon</item>
+      <item>Irri</item>
+      <item>Mariya Darry</item>
+      <item>Jonos Bracken</item>
+      <item>Jaehaerys Targaryen</item>
+      <item>Penny</item>
+      <item>Jon Fossoway</item>
+      <item>Salladhor Saan</item>
+      <item>Aemma Arryn</item>
+      <item>Jon Umber</item>
+      <item>Cressen</item>
+      <item>Hot Pie</item>
+      <item>Imry Florent</item>
+      <item>Rakharo</item>
+      <item>Danwell Frey</item>
+      <item>Maelor Targaryen</item>
+
+    </string-array>
+</resources>

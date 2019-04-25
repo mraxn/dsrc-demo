@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pd_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="6dp"
+    android:layout_marginBottom="6dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/pd_card_img"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/driver_pic" />
+
+        <EditText
+            android:id="@+id/pd_card_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/pd_card_img"
+            android:maxLines="1"
+            android:text="Jon Snow"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            />
+
+        <TextView
+            android:id="@+id/pd_card_idt"
+
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/pd_card_id"
+            android:layout_alignBottom="@+id/pd_card_id"
+            android:layout_toEndOf="@id/pd_card_img"
+            android:paddingTop="6dp"
+            android:text="ID: "
+            android:textSize="18sp"
+            android:textColor="#000000"
+            />
+
+        <EditText
+            android:id="@+id/pd_card_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pd_card_name"
+            android:layout_toRightOf="@id/pd_card_idt"
+            android:maxLines="1"
+            android:textSize="18sp"
+            android:inputType="number"
+            android:textColor="#000000"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

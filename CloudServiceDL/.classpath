@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/asnrt-3.14.15.5-20161103.jar"/>
+	<classpathentry kind="lib" path="libs/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/msgset-c-17.0.2-cbdb6b0-b36.jar"/>
+	<classpathentry kind="lib" path="libs/msgset-d-17.0.2-cbdb6b0-b36.jar"/>
+	<classpathentry kind="lib" path="libs/msgset-e-17.0.2-cbdb6b0-b36.jar"/>
+	<classpathentry kind="lib" path="libs/rpckit-1.0.0-b6-obfuscated.jar"/>
+	<classpathentry kind="lib" path="libs/rxjava-1.2.9.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="libs/v2x-client-1.17.5-b1599-javadoc.jar"/>
+	<classpathentry kind="lib" path="libs/v2x-client-1.17.5-b1599.jar"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
